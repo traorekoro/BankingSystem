@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\bin\Debug\net9.0\bankingSystemApp.exe
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\bin\Debug\net9.0\bankingSystemApp.deps.json
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\bin\Debug\net9.0\bankingSystemApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\bin\Debug\net9.0\bankingSystemApp.dll
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\bin\Debug\net9.0\bankingSystemApp.pdb
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.sourcelink.json
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.dll
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\refint\bankingSystemApp.dll
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.pdb
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\bankingSystemApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODE\BankingSystem\bankingSystemApp\obj\Debug\net9.0\ref\bankingSystemApp.dll
